@@ -1,4 +1,4 @@
-console.log('Client side JS has been loaded');
+//console.log('Client side JS has been loaded');
 
 const indexForm = document.querySelector('form');
 const searchElement = document.querySelector('input');
